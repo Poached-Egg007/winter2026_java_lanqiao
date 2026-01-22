@@ -8,5 +8,6 @@ public class ForSum {
         }
         System.out.println("1到100的和为："+sum);
         System.out.println("main分支补充：求和完成");
+        System.out.println("补充：循环结束")
     }
 }
